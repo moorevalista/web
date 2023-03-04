@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "9094aacdae789dccd67fa32109ff1a18",
-"index.html": "02bff69dbe1eec99caefd0f0f15abebe",
-"/": "02bff69dbe1eec99caefd0f0f15abebe",
+"index.html": "b53ea4c8553a8b729a828e561ca0be74",
+"/": "b53ea4c8553a8b729a828e561ca0be74",
 "main.dart.js": "dacbe0a946fba4025a763269169f0dcb",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -15,6 +15,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "8c52d02840bc5c10bc050ea95d7b8313",
 "assets/images/hsi_logo.png": "bd1d7da17291d0d4813d2c6393015022",
+"assets/images/image4.jpg": "4367044cb549370d57c926ae8d3d44a4",
+"assets/images/image1.jpg": "1f157bf6d14c3df040228d01045fac3a",
+"assets/images/image2.jpg": "1f86ad7ee138ae25a8c210ef422ff160",
+"assets/images/image3.jpg": "3945242a1d0706a46b7d1aab63341458",
 "assets/AssetManifest.json": "5fd478ecb004f335f13a852298263ac5",
 "assets/NOTICES": "66d61a52f6068d7d5e34a67c159f9b33",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
